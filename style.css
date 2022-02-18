@@ -1,0 +1,88 @@
+.top {
+    margin-top: 50px;
+    margin-left: 50px;
+
+    
+    width: 400px;
+    height: 400px;
+     position: relative;
+     left: 500px;
+     display: inline-block;
+}
+.head{
+    font-family: fantasy;
+}
+.cl {
+    position: relative;
+    right: 300px;
+}
+.image{
+    position: relative;
+    bottom: 200px;
+    right: 100px;
+    
+}
+
+hr {
+    width: 20%;
+}
+.bottom{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 580px;
+    
+}
+.about{
+    font-family: fantasy;
+}
+.megh{
+    position: relative;
+    right: 200px;
+}
+.bg{
+    position: relative;
+    left: 300px;
+}
+.abt{
+    width: 50%;
+    position: relative;
+    right: 40px;
+}
+.mid{
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+    background-image: url(back.jpg);
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 275px;
+    left: 500px;
+}
+.xl{
+    position: relative;
+    left: 80px;
+    font-family: fantasy;
+}
+.xls{
+    font-family: fantasy;
+}
+.hi{ padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+    background-image: url(bott.jpg);
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 400px;
+    left: 500px;
+
+}
+.cnt{
+    font-family: fantasy;
+    position: relative;
+    left: 150px;
+}
